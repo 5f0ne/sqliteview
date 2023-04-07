@@ -5,10 +5,10 @@ with open("README.md", "r") as r:
 
 setup(
     name="sqliteview",             # This name is used in: pip install hello-world
-    version="1.0.0",
+    version="1.0.1",
     author="5f0",
-    url="https://github.com/5f0ne/repo-name",
-    description="Insert description here...",
+    url="https://github.com/5f0ne/sqliteview",
+    description="Visualize SQLite files",
     classifiers=[
         "Operating System :: OS Independent ",
         "Programming Language :: Python :: 3 ",

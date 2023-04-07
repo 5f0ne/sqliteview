@@ -55,7 +55,7 @@ class Controller():
         print(" Row Count: " + str(count))
         print("       ---")
         if(count == 0):
-            print("No rows in table!")
+            print("       No rows in table!")
         else:
             for row in rows:
                 print("       " + str(row))
